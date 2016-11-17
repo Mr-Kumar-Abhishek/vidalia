@@ -1,6 +1,5 @@
-================================
-Overview
-================================
+#Vidalia
+
 Vidalia is a cross-platform controller GUI for Tor, built using the Qt
 framework. Using Vidalia, you can start and stop Tor, view the status of Tor
 at a glance, and monitor Tor's bandwidth usage. Vidalia also makes it easy to
@@ -15,7 +14,7 @@ Vidalia is written by Matt Edman and Justin Hipple.
 See the LICENSE file for licensing information.
 
 ================================
-Installation (Mac OS X)
+###Installation (Mac OS X)
 ================================
 Installation is simple.  Drag the Vidalia icon to Applications.
 
